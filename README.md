@@ -36,7 +36,7 @@ Requirements:
 
 First, download the installer with:
 
-```wget https://github.com/R2D2FISH/OpensPides/blob/d1a3cb1a40d1052e18a05c48166db7a2c1d2b4e6/openspades-installer.sh```
+```wget https://raw.githubusercontent.com/R2D2FISH/OpensPides/d1a3cb1a40d1052e18a05c48166db7a2c1d2b4e6/openspades-installer.sh```
 
 Then navigate to the directory where the installer was created, and type:
 
