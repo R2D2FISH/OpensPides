@@ -40,6 +40,10 @@ First, download the installer with:
 
 Then navigate to the directory where the installer was created, and type:
 
+```chmod +x openspades-installer.sh```
+
+and:
+
 ```bash openspades-installer.sh```
 
 Although you can run the installer as root, it is not recommended, as you will be unable to access the installer's files.
