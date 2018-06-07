@@ -167,6 +167,7 @@ else
 #################################
 "
 sleep 2
+	 sudo apt-get update
 	 sudo apt-get install build-essential cmake pkg-config libfltk1.3-dev libglew-dev libcurl3-openssl-dev libjpeg-dev libxinerama-dev libxft-dev mercurial git-core libopenal1 libopenal-dev mesa-utils libtiff-dev libpng12-dev libjpeg-dev wget zip tar imagemagick vim -y
 	 touch ~/OpensPides/InstallerFiles/dependencies							# mark dependencies as installed
 	 echo "All pre-built dependencies installed."
